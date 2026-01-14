@@ -1,0 +1,7 @@
+{
+  "name": "CoupleAI - Pose Recreator",
+  "description": "Upload photos of you and your partner along with a reference image to recreate a special moment or pose using Gemini's advanced image synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
